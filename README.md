@@ -2,7 +2,7 @@
 
 # Part 1: Docker with Node.js & Express.js — The Complete Beginner's Guide
 
-![Docker and Node.js Banner](https://images.unsplash.com/photo-1605745341112-85968b19335b?w=1200&h=400&fit=crop)
+![Docker and Node.js Banner](https://cdn.hashnode.com/res/hashnode/image/upload/v1642773221418/7A9XnkEAEb.png))
 
 If you've been hearing about Docker everywhere but felt intimidated to start, you're in the right place. In this beginner-friendly guide, we'll demystify Docker by building a simple Node.js and Express.js application and containerizing it step by step.
 
@@ -211,7 +211,7 @@ You should see your `my-nodejs-app` image listed.
 
 ## Step 5: Run the Docker Container
 
-Let's create and run a container from our image:
+Let ud create and run a container from our image:
 
 ```bash
 docker run -p 3000:3000 my-nodejs-app
@@ -272,8 +272,7 @@ Here's how everything fits together:
 ```
 
 ## Essential Docker Commands
-
-Here are commands you'll use frequently:
+here we go frequently used cmd
 
 ### Container Management
 ```bash
