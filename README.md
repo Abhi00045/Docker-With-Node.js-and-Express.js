@@ -10,9 +10,9 @@ In this guide, I'll walk you through everything I learned about Docker by buildi
 
 By the end of this, you'll understand what Docker is, why developers love it, and how to create your first containerized Node.js application. Let's jump in!
 
-## What is Docker? (Let Me Explain Simply)
+## What is Docker? 
 
-So here's the thing - I'm sure you've experienced this: you build an amazing application on your laptop. It works perfectly. But when your colleague tries to run it on their machine, it breaks. Sound familiar? Yeah, "It works on my machine!" became my favorite excuse too. 😅
+So here's the thing - I'm sure you've experienced this: you build an amazing application on your laptop. It works perfectly. But when your colleague tries to run it on their machine, it breaks. Sound familiar? Yeah, "It works on my machine!" became my favorite excuse too.
 
 Docker completely solved this headache for me by packaging my application along with everything it needs to run — the runtime, libraries, dependencies, and configuration files — into a standardized unit called a **container**.
 
